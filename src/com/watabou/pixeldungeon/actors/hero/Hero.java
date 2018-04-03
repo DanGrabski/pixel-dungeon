@@ -170,10 +170,14 @@ public class Hero extends Char {
 		super();
 		name = "you";
 		
-		HP = HT = 20;
-		STR = STARTING_STR;
-		awareness = 0.1f;
-		
+//		HP = HT = 20;
+//		STR = STARTING_STR;
+//		awareness = 0.1f;
+		HP = HT = 4000;
+		STR = 50;
+		awareness = 1.0f;
+
+
 		belongings = new Belongings( this );
 		
 		visibleEnemies = new ArrayList<Mob>();

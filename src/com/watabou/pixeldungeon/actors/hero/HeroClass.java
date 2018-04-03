@@ -47,7 +47,7 @@ public enum HeroClass {
 	}
 	
 	public static final String[] WAR_PERKS = {
-		"Warriors start with 11 points of Strength.",
+		"Warriors start with TONS of points of Strength.",
 		"Warriors start with a unique short sword. This sword can be later \"reforged\" to upgrade another melee weapon.",
 		"Warriors are less proficient with missile weapons.",
 		"Any piece of food restores some health when eaten.",
